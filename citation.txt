@@ -1,0 +1,11 @@
+@article{REPO192,
+    author = "Jiao, Jinyue and Gong, Zhiqiang and Zhong, Ping",
+    doi = "10.1109/TGRS.2023.3306084",
+    journal = "IEEE Transactions on Geoscience and Remote Sensing",
+    keywords = "Training;Transformers;Feature extraction;Hyperspectral imaging;Detectors;Object detection;Task analysis;Balanced learning;hyperspectral image;spectralwise transformer;target detection;triplet network",
+    number = "",
+    pages = "1-17",
+    title = "{Triplet Spectralwise Transformer Network for Hyperspectral Target Detection}",
+    volume = "61",
+    year = "2023"
+}
